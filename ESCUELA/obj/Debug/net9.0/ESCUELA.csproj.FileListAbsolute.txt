@@ -1,0 +1,14 @@
+C:\Users\vladi\C#\ESCUELA\bin\Debug\net9.0\ESCUELA.exe
+C:\Users\vladi\C#\ESCUELA\bin\Debug\net9.0\ESCUELA.deps.json
+C:\Users\vladi\C#\ESCUELA\bin\Debug\net9.0\ESCUELA.runtimeconfig.json
+C:\Users\vladi\C#\ESCUELA\bin\Debug\net9.0\ESCUELA.dll
+C:\Users\vladi\C#\ESCUELA\bin\Debug\net9.0\ESCUELA.pdb
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.AssemblyInfoInputs.cache
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.AssemblyInfo.cs
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.csproj.CoreCompileInputs.cache
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.dll
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\refint\ESCUELA.dll
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.pdb
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ESCUELA.genruntimeconfig.cache
+C:\Users\vladi\C#\ESCUELA\obj\Debug\net9.0\ref\ESCUELA.dll
