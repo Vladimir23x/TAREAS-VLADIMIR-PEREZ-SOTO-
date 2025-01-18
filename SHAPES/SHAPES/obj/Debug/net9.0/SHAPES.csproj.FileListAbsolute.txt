@@ -1,0 +1,14 @@
+C:\Users\vladi\SHAPES\SHAPES\bin\Debug\net9.0\SHAPES.exe
+C:\Users\vladi\SHAPES\SHAPES\bin\Debug\net9.0\SHAPES.deps.json
+C:\Users\vladi\SHAPES\SHAPES\bin\Debug\net9.0\SHAPES.runtimeconfig.json
+C:\Users\vladi\SHAPES\SHAPES\bin\Debug\net9.0\SHAPES.dll
+C:\Users\vladi\SHAPES\SHAPES\bin\Debug\net9.0\SHAPES.pdb
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.AssemblyInfoInputs.cache
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.AssemblyInfo.cs
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.csproj.CoreCompileInputs.cache
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.dll
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\refint\SHAPES.dll
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.pdb
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\SHAPES.genruntimeconfig.cache
+C:\Users\vladi\SHAPES\SHAPES\obj\Debug\net9.0\ref\SHAPES.dll
