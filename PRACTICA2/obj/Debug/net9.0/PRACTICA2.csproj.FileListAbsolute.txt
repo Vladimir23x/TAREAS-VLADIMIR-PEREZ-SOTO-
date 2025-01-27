@@ -1,0 +1,14 @@
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\bin\Debug\net9.0\PRACTICA2.exe
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\bin\Debug\net9.0\PRACTICA2.deps.json
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\bin\Debug\net9.0\PRACTICA2.runtimeconfig.json
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\bin\Debug\net9.0\PRACTICA2.dll
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\bin\Debug\net9.0\PRACTICA2.pdb
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.AssemblyInfoInputs.cache
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.AssemblyInfo.cs
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.dll
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\refint\PRACTICA2.dll
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.pdb
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\PRACTICA2.genruntimeconfig.cache
+C:\Users\vladi\POLIMORFISMO\PRACTICA2\obj\Debug\net9.0\ref\PRACTICA2.dll
