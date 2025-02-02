@@ -1,0 +1,14 @@
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\bin\Debug\net9.0\YAGNI.exe
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\bin\Debug\net9.0\YAGNI.deps.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\bin\Debug\net9.0\YAGNI.runtimeconfig.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\bin\Debug\net9.0\YAGNI.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\bin\Debug\net9.0\YAGNI.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.AssemblyInfoInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.AssemblyInfo.cs
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.csproj.CoreCompileInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\refint\YAGNI.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\YAGNI.genruntimeconfig.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\YAGNI\obj\Debug\net9.0\ref\YAGNI.dll

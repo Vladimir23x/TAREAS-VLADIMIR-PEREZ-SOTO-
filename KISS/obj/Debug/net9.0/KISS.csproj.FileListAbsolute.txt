@@ -1,0 +1,14 @@
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\bin\Debug\net9.0\KISS.exe
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\bin\Debug\net9.0\KISS.deps.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\bin\Debug\net9.0\KISS.runtimeconfig.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\bin\Debug\net9.0\KISS.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\bin\Debug\net9.0\KISS.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.AssemblyInfoInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.AssemblyInfo.cs
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.csproj.CoreCompileInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\refint\KISS.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\KISS.genruntimeconfig.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\KISS\obj\Debug\net9.0\ref\KISS.dll

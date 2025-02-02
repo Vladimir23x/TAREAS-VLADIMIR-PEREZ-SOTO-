@@ -1,0 +1,14 @@
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.AssemblyInfo.cs
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\bin\Debug\net9.0\SOLID.exe
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\bin\Debug\net9.0\SOLID.deps.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\bin\Debug\net9.0\SOLID.runtimeconfig.json
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\bin\Debug\net9.0\SOLID.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\bin\Debug\net9.0\SOLID.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\refint\SOLID.dll
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.pdb
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\SOLID.genruntimeconfig.cache
+C:\Users\vladi\PRINCIPIOS DE DISEÑO\SOLID\obj\Debug\net9.0\ref\SOLID.dll
